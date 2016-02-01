@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/hashicorp/hcl/hcl/ast"
+	"github.com/dvln/hcl/hcl/ast"
 )
 
 func TestDecode_interface(t *testing.T) {

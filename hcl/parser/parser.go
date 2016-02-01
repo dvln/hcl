@@ -6,9 +6,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/hashicorp/hcl/hcl/ast"
-	"github.com/hashicorp/hcl/hcl/scanner"
-	"github.com/hashicorp/hcl/hcl/token"
+	"github.com/dvln/hcl/hcl/ast"
+	"github.com/dvln/hcl/hcl/scanner"
+	"github.com/dvln/hcl/hcl/token"
 )
 
 type Parser struct {

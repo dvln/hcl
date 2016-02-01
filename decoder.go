@@ -8,9 +8,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/hashicorp/hcl/hcl/ast"
-	"github.com/hashicorp/hcl/hcl/parser"
-	"github.com/hashicorp/hcl/hcl/token"
+	"github.com/dvln/hcl/hcl/ast"
+	"github.com/dvln/hcl/hcl/parser"
+	"github.com/dvln/hcl/hcl/token"
 )
 
 // This is the tag to use with structures to have settings for HCL

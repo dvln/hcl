@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/hashicorp/hcl/hcl/token"
+	"github.com/dvln/hcl/hcl/token"
 	"strings"
 )
 
